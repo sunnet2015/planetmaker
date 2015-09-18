@@ -1,0 +1,71 @@
+{
+    "LevelData": {
+        "Name": "Level 1",
+        "Difficult": "1",
+        "Rotate": "-65",
+        "RotationSpeedPattern": "",
+        "PlanetObjects": "",
+        "PlayingObjects": {
+            "ObjectData": [
+                {
+                    "name": "House_1_1",
+                    "type": "Building",
+                    "height": "7.746019",
+                    "angle": "360",
+                    "movingSpeed": "0"
+                },
+                {
+                    "name": "House_1_2",
+                    "type": "Building",
+                    "height": "7.40600252",
+                    "angle": "360",
+                    "movingSpeed": "0"
+                },
+                {
+                    "name": "Tree_1_2",
+                    "type": "Building",
+                    "height": "7.28999949",
+                    "angle": "360",
+                    "movingSpeed": "0"
+                },
+                {
+                    "name": "House_1_3",
+                    "type": "Building",
+                    "height": "7.40600252",
+                    "angle": "360",
+                    "movingSpeed": "0"
+                },
+                {
+                    "name": "Tree_1_4",
+                    "type": "Building",
+                    "height": "7.746019",
+                    "angle": "360",
+                    "movingSpeed": "0"
+                },
+                {
+                    "name": "House_1_4",
+                    "type": "Building",
+                    "height": "8.28858948",
+                    "angle": "360",
+                    "movingSpeed": "0"
+                },
+                {
+                    "name": "Tree_1_3",
+                    "type": "Building",
+                    "height": "9.004717",
+                    "angle": "360",
+                    "movingSpeed": "0"
+                },
+                {
+                    "name": "House_1_5",
+                    "type": "Building",
+                    "height": "9.863909",
+                    "angle": "360",
+                    "movingSpeed": "0"
+                }
+            ]
+        },
+        "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "_xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+    }
+}

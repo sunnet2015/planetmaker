@@ -1,0 +1,94 @@
+{
+  "LevelData": {
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "Name": "Level 6",
+    "Difficult": "2",
+    "Rotate": "80",
+    "PlanetObjects": {
+      "ObjectData": [
+        {
+          "name": "House_1_7",
+          "type": "Building",
+          "height": "0",
+          "angle": "1191.34583",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_14",
+          "type": "Building",
+          "height": "-2.38418579E-07",
+          "angle": "1319.50024",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_5",
+          "type": "Building",
+          "height": "0",
+          "angle": "1114.84082",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_2",
+          "type": "Building",
+          "height": "7.15255737E-07",
+          "angle": "1263.14709",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_12",
+          "type": "Building",
+          "height": "0",
+          "angle": "1370.8877",
+          "movingSpeed": "0"
+        }
+      ]
+    },
+    "PlayingObjects": {
+      "ObjectData": [
+        {
+          "name": "House_1_9",
+          "type": "Building",
+          "height": "7.746019",
+          "angle": "360",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_3",
+          "type": "Building",
+          "height": "7.40600252",
+          "angle": "360",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_4",
+          "type": "Building",
+          "height": "7.28999949",
+          "angle": "360",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_13",
+          "type": "Building",
+          "height": "7.40600252",
+          "angle": "360",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_0",
+          "type": "Building",
+          "height": "7.746019",
+          "angle": "360",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_5",
+          "type": "Building",
+          "height": "8.28858948",
+          "angle": "360",
+          "movingSpeed": "0"
+        }
+      ]
+    }
+  }
+}

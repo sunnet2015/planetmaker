@@ -1,0 +1,101 @@
+{
+  "LevelData": {
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "Name": "Level 6",
+    "Difficult": "2",
+    "Rotate": "-90",
+    "PlanetObjects": {
+      "ObjectData": [
+        {
+          "name": "House_1_9",
+          "type": "Building",
+          "height": "0",
+          "angle": "1024.61108",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_7",
+          "type": "Building",
+          "height": "0",
+          "angle": "1261.69019",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_7",
+          "type": "Building",
+          "height": "0",
+          "angle": "1223.62366",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_9",
+          "type": "Building",
+          "height": "0",
+          "angle": "1136.25293",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_5",
+          "type": "Building",
+          "height": "0",
+          "angle": "1316.39282",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Rocket",
+          "type": "FloatingObject",
+          "height": "1.80517769",
+          "angle": "250.881989",
+          "movingSpeed": "40"
+        },
+        {
+          "name": "JetBalloon",
+          "type": "FloatingObject",
+          "height": "1.59452248",
+          "angle": "429.9926",
+          "movingSpeed": "-15"
+        }
+      ]
+    },
+    "PlayingObjects": {
+      "ObjectData": [
+        {
+          "name": "Tree_1_1",
+          "type": "Building",
+          "height": "7.65711832",
+          "angle": "360",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_3",
+          "type": "Building",
+          "height": "7.317102",
+          "angle": "360",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_14",
+          "type": "Building",
+          "height": "7.201099",
+          "angle": "360",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_2",
+          "type": "Building",
+          "height": "7.317102",
+          "angle": "360",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_0",
+          "type": "Building",
+          "height": "7.65711832",
+          "angle": "360",
+          "movingSpeed": "0"
+        }
+      ]
+    }
+  }
+}

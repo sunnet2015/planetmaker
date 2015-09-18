@@ -1,0 +1,92 @@
+{
+  "LevelData": {
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "Name": "Level 3a",
+    "Difficult": "1",
+    "Rotate": "65",
+    "PlanetObjects": {
+      "ObjectData": [
+        {
+          "name": "Tree_1_3",
+          "type": "Building",
+          "height": "0",
+          "angle": "1710.47742",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_4",
+          "type": "Building",
+          "height": "0",
+          "angle": "1923.69006",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_11",
+          "type": "Building",
+          "height": "0",
+          "angle": "1783.65186",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "Tree_1_14",
+          "type": "Building",
+          "height": "0",
+          "angle": "1857.12842",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_5",
+          "type": "Building",
+          "height": "-2.38418579E-07",
+          "angle": "742.2176",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_3",
+          "type": "Building",
+          "height": "2.38418579E-07",
+          "angle": "667.676147",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_9",
+          "type": "Building",
+          "height": "0",
+          "angle": "808.0694",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_6",
+          "type": "Building",
+          "height": "0",
+          "angle": "870.439636",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_3",
+          "type": "Building",
+          "height": "0",
+          "angle": "598.438232",
+          "movingSpeed": "0"
+        },
+        {
+          "name": "House_1_7",
+          "type": "Building",
+          "height": "0",
+          "angle": "176.033249",
+          "movingSpeed": "0"
+        }
+      ]
+    },
+    "PlayingObjects": {
+      "ObjectData": {
+        "name": "House_1_8",
+        "type": "Building",
+        "height": "7.65711832",
+        "angle": "360",
+        "movingSpeed": "0"
+      }
+    }
+  }
+}

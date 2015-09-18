@@ -1,0 +1,53 @@
+{
+  "addons": {
+    "facebook": {},
+    "weeby": {}
+  },
+  "android": {
+    "icons": {
+      "36": "resources/icons/android36.png",
+      "48": "resources/icons/android48.png",
+      "72": "resources/icons/android72.png",
+      "96": "resources/icons/android96.png"
+    },
+    "packageName": "com.bluebirdaward.MarsMaker",
+    "versionCode": 1
+  },
+  "appID": "ad45ff91d56542dbafbd7ec48668f07c",
+  "dependencies": {
+    "devkit-core": "git@github.com:gameclosure/devkit-core#v3.0.2",
+    "devkit-menus": "https://github.com/gameclosure/menus#c242167eb99df23ef3cad8d7b66e791289779f05",
+    "devkit-scene": "git@github.com:gameclosure/devkit-scene.git#b995c2c9b2ccb9b5c7623482db6f0d693257fdea"
+  },
+  "description": "",
+  "disableNativeViews": false,
+  "icon": "resources/icons/icon512.png",
+  "ios": {
+    "appleID": "12345678",
+    "bundleID": "com.bluebirdaward.MarsMaker",
+    "icons": {
+      "114": "resources/icons/ios114.png",
+      "144": "resources/icons/ios144.png",
+      "57": "resources/icons/ios57.png",
+      "72": "resources/icons/ios72.png",
+      "renderGloss": true
+    },
+    "version": "1.0.0"
+  },
+  "sdkVersion": "release-0.1.46",
+  "shortName": "PlanetMaker",
+  "splash": {
+    "autoHide": true,
+    "universal": "resources/images/game/background.png"
+  },
+  "studio": {
+    "domain": "bluebirdaward.com",
+    "name": "Weeby.co",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait"
+  ],
+  "title": "Planet Maker",
+  "version": "1.0.0"
+}
